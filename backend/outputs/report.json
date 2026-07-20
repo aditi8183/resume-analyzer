@@ -1,0 +1,27 @@
+{
+    "scores": {
+        "skill_score": 80,
+        "keyword_score": 75,
+        "experience_score": 100,
+        "ats_score": 85
+    },
+    "matching": {
+        "matched_skills": [
+            "python",
+            "sql"
+        ]
+    },
+    "gaps": {
+        "missing_skills": [
+            "aws"
+        ],
+        "critical_missing": [
+            "aws"
+        ],
+        "experience_gap": 0
+    },
+    "job_level": "Mid",
+    "recommendations": [
+        "Critical skill missing: aws"
+    ]
+}

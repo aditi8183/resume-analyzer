@@ -1,0 +1,28 @@
+C:\Users\ADITI ANSH\miniconda3\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (2.6.1) or chardet (7.4.3)/charset_normalizer (3.4.4) doesn't match a supported version!
+  warnings.warn(
+INFO: Could not find files for the given pattern(s).
+C:\Users\ADITI ANSH\miniconda3\Lib\site-packages\paddle\utils\cpp_extension\extension_utils.py:712: UserWarning: No ccache found. Please be aware that recompiling all source files may be required. You can download and install ccache from: https://github.com/ccache/ccache/blob/master/doc/INSTALL.md
+  warnings.warn(warning_message)
+Creating model: ('PP-LCNet_x1_0_doc_ori', None, None)
+Model files already exist. Using cached files. To redownload, please delete the directory manually: `C:\Users\ADITI ANSH\.paddlex\official_models\PP-LCNet_x1_0_doc_ori`.
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+I0705 18:33:04.032361 25472 onednn_context.cc:81] oneDNN v3.6.2
+Creating model: ('UVDoc', None, None)
+Model files already exist. Using cached files. To redownload, please delete the directory manually: `C:\Users\ADITI ANSH\.paddlex\official_models\UVDoc`.
+Creating model: ('PP-LCNet_x1_0_textline_ori', None, None)
+Model files already exist. Using cached files. To redownload, please delete the directory manually: `C:\Users\ADITI ANSH\.paddlex\official_models\PP-LCNet_x1_0_textline_ori`.
+Creating model: ('PP-OCRv6_medium_det', None, None)
+Model files already exist. Using cached files. To redownload, please delete the directory manually: `C:\Users\ADITI ANSH\.paddlex\official_models\PP-OCRv6_medium_det`.
+Creating model: ('PP-OCRv6_medium_rec', None, None)
+Model files already exist. Using cached files. To redownload, please delete the directory manually: `C:\Users\ADITI ANSH\.paddlex\official_models\PP-OCRv6_medium_rec`.
+2026-07-05 18:33:06,133 | INFO | Resume extraction completed
+2026-07-05 18:33:06,133 | INFO | Layout parsing completed
+2026-07-05 18:33:06,137 | INFO | Phase 3 completed
+2026-07-05 18:33:06,138 | INFO | JD parsing completed
+2026-07-05 18:33:06,138 | INFO | Skill matching completed
+2026-07-05 18:33:06,138 | INFO | Keyword matching completed
+2026-07-05 18:33:06,138 | INFO | Gap analysis completed
+2026-07-05 18:33:06,138 | INFO | ATS score calculated
+2026-07-05 18:33:06,138 | INFO | Recommendations generated
+2026-07-05 18:33:06,138 | INFO | Phase 4 completed
+{'matched_skills': ['data scientist', 'machine learning', 'python'], 'missing_skills': ['aws', 'docker', 'sql'], 'skill_score': 50.0, 'keyword_score': 50.0, 'experience_gap': 0, 'ats_score': 60.0, 'recommendations': ['Add experience/projects using aws', 'Add experience/projects using docker', 'Add experience/projects using sql']}

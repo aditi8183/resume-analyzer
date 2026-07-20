@@ -1,0 +1,2 @@
+2026-07-05 16:29:07,689 | INFO | JD parsing completed
+{'skills': ['aws', 'data scientist', 'docker', 'machine learning', 'python', 'sql'], 'keywords': ['data', 'docker', 'learning', 'sql', 'required', 'skills', 'aws', 'scientist', 'python', 'years', 'machine', 'experience'], 'experience': 3, 'text': 'Data Scientist\n\nRequired Skills:\nPython\nMachine Learning\nSQL\nDocker\nAWS\n\nExperience:\n3 years'}

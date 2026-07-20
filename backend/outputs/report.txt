@@ -1,0 +1,21 @@
+===== ATS REPORT =====
+
+ATS Score: 85
+Skill Score: 80
+Keyword Score: 75
+Experience Score: 100
+
+Job Level: Mid
+
+Matched Skills:
+- python
+- sql
+
+Missing Skills:
+- aws
+
+Critical Missing Skills:
+- aws
+
+Recommendations:
+- Critical skill missing: aws

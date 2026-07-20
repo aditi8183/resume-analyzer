@@ -1,0 +1,24 @@
+python
+java
+c++
+sql
+mysql
+postgresql
+mongodb
+machine learning
+deep learning
+nlp
+computer vision
+tensorflow
+pytorch
+docker
+kubernetes
+aws
+git
+flask
+django
+react
+nodejs
+pandas
+numpy
+scikit-learn

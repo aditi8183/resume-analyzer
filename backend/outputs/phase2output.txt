@@ -1,0 +1,20 @@
+C:\Users\ADITI ANSH\miniconda3\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (2.6.1) or chardet (7.4.3)/charset_normalizer (3.4.4) doesn't match a supported version!
+  warnings.warn(
+INFO: Could not find files for the given pattern(s).
+C:\Users\ADITI ANSH\miniconda3\Lib\site-packages\paddle\utils\cpp_extension\extension_utils.py:712: UserWarning: No ccache found. Please be aware that recompiling all source files may be required. You can download and install ccache from: https://github.com/ccache/ccache/blob/master/doc/INSTALL.md
+  warnings.warn(warning_message)
+Creating model: ('PP-LCNet_x1_0_doc_ori', None, None)
+Model files already exist. Using cached files. To redownload, please delete the directory manually: `C:\Users\ADITI ANSH\.paddlex\official_models\PP-LCNet_x1_0_doc_ori`.
+WARNING: Logging before InitGoogleLogging() is written to STDERR
+I0702 22:45:55.136291 37236 onednn_context.cc:81] oneDNN v3.6.2
+Creating model: ('UVDoc', None, None)
+Model files already exist. Using cached files. To redownload, please delete the directory manually: `C:\Users\ADITI ANSH\.paddlex\official_models\UVDoc`.
+Creating model: ('PP-LCNet_x1_0_textline_ori', None, None)
+Model files already exist. Using cached files. To redownload, please delete the directory manually: `C:\Users\ADITI ANSH\.paddlex\official_models\PP-LCNet_x1_0_textline_ori`.
+Creating model: ('PP-OCRv6_medium_det', None, None)
+Model files already exist. Using cached files. To redownload, please delete the directory manually: `C:\Users\ADITI ANSH\.paddlex\official_models\PP-OCRv6_medium_det`.
+Creating model: ('PP-OCRv6_medium_rec', None, None)
+Model files already exist. Using cached files. To redownload, please delete the directory manually: `C:\Users\ADITI ANSH\.paddlex\official_models\PP-OCRv6_medium_rec`.
+2026-07-02 22:45:56,931 | INFO | Resume extraction completed
+2026-07-02 22:45:56,932 | INFO | Layout parsing completed
+{'sections': {'summary': ['One97 Communications Limited', 'Data Scientist Jan 2019 to Till Date', 'Detect important information from images and redact', 'required fields. YOLO CNN Object-detection, OCR', 'Insights, find anomaly or performance drop in all', 'possible sub-space.', 'Predict the Insurance claim probability. Estimate the', 'premium amount to be charged', 'B.Tech(Computer Science) from SGBAU university in', '2017.', 'M.Tech (Computer Science Engineering) from Indian', 'Institute of Technology (IIT), Kanpur in 2019'], 'experience': [], 'education': ['MACY WILLIAMS', 'DATA SCIENTIST', 'Data Scientist working  on problems related to market research and customer analysis. I want to expand my arsenal of', 'application building and work on different kinds of problems. Looking for a role where I can work with a coordinative team', 'and exchange knowledge during the process.', 'Java, C++, Python, Machine Learning, Algorithms, Natural Language Processing, Deep Learning, Computer Vision, Pattern', 'Recognition, Data Science, Data Analysis, Software Engineer, Data Analyst, C, PySpark, Kubeflow.', 'ABOUT'], 'skills': ['Customer browsing patterns.', 'Predict potential RTO(Return To Origin) orders for e-', 'commerce.', 'Object Detection.'], 'projects': ['ACTIVITES']}, 'columns': 2}
