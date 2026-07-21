@@ -1,8 +1,8 @@
-# AI-Powered Resume Analyzer & ATS System
+# AI-Powered Hiring Assisstant and Resume Analyzer 
 
 ## Overview
 
-This project is an AI-powered Smart Hiring Assisstant and Resume Analyzer developed as an academic capstone project.
+This project is an AI-powered Smart Hiring Assisstant and Resume Analyzer developed as an internship training project.
 
 The system analyzes resumes against job descriptions and provides:
 * Resume parsing
@@ -297,11 +297,15 @@ http://localhost:5173
 
 ## Academic Use
 
-This project was developed as an academic capstone project to demonstrate practical implementation of:
+This project was developed as an internship training project to demonstrate practical implementation of:
 
 * FastAPI
 * NLP
 * Machine Learning
+* Artificial Intelligence
+* Data Analytics
+* HTML
+* CSS
 * Resume Parsing
 * ATS Design
 * Full Stack Development
