@@ -290,6 +290,7 @@ http://localhost:5173
 * Cloud Deployment
 * Advanced Resume Parsing
 * Interview Recommendation Engine
+* Actual endpoint creation for job create option on recruiter dashboard , this same created job should reach the candidate dashboard under available jobs and then candidates may apply
 * AI Resume Improvement Suggestions
 
 ---
